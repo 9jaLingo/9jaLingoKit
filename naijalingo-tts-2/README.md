@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="9jaLingo Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/9jaLingo/9jaLingoKit/main/naijalingo-tts-2/naijalingo_tts_2/assets/logo.png" alt="9jaLingo Logo" width="400"/>
 </p>
 
 <div align="center">
